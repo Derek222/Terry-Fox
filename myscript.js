@@ -1,1 +1,1 @@
-var age = 16
+alert("hey");
