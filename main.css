@@ -1,6 +1,10 @@
 body {
-backgroundcolor:#908070;
+  background: blue;
+}
+p {
+  color:red;
+  font-family:Times;
 }
 h1 {
-color:red;
+  color:purple;
 }
