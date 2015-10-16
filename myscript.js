@@ -1,4 +1,5 @@
 var Question = prompt("What is your name");
-if (Question != Derek) {
-  
+var name = "Derek";
+if (input != name) {
+  alert("Nice to meet You + name")
 }
